@@ -19,6 +19,3 @@ def prime_factors(n: int):
                 #start from lowest prime again 
                 break
 
-
-
-print([i for i in prime_factors(15)])
